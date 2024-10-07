@@ -3,7 +3,7 @@ Company: CODTECH IT SOLUTIONS
 ID: CT08DS8146           
 Domain: DEVOPS         
 Duration: SEPTEMBER TO OCTOBER           
-Mentor: Muzammil ahmed          
+Mentor:         
 
 Project: MONITORING AND LOGGING WITH PROMETHEUS AND GRAFANA
 
