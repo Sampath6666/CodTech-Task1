@@ -12,10 +12,10 @@ Overview of Monitoring and Logging with Prometheus and Grafana
 1.Objective:
  *Implement a monitoring and logging solution for a web application to track performance metrics, resource usage, and potential issues.
 
-2. Tools:
+ 2. Tools:
  *Prometheus: An open-source systems monitoring and alerting toolkit that collects metrics from configured targets at specified intervals, evaluates rule expressions, and can trigger alerts.
  *Grafana: An open-source platform for monitoring and observability that provides beautiful visualizations and dashboards for your data from various sources, including Prometheus.
-
+ 
 3.Key Components:
  *Metrics Collection: Use Prometheus to scrape metrics from your web application. This typically involves exposing an endpoint in your application that Prometheus can query.
  *Data Storage: Prometheus stores metrics data in its own time-series database.
