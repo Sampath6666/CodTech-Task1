@@ -1,8 +1,8 @@
-Name: AMBATI SRIKANTH             
+Name: PATLOLLA SAMPATH REDDY             
 Company: CODTECH IT SOLUTIONS                
-ID: CT08DS8146           
+ID:CT6WDS1977         
 Domain: DEVOPS         
-Duration: SEPTEMBER TO OCTOBER           
+Duration:OCTOBER TO NOVEMBER           
 Mentor:         
 
 Project: MONITORING AND LOGGING WITH PROMETHEUS AND GRAFANA
